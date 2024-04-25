@@ -4,7 +4,7 @@ Java code implementing a simplified version of the Twitter concept using classes
 ## Prerequisites
 Before running the project, ensure that you have installed the following software:
 
-- Java SE Development Kit (JDK) version 16 or later.
+- Java SE Development Kit (JDK).
 - Apache Maven version 3.8.3 or later.
 - IntelliJ IDEA Community Edition version 2021.1 or later.
 
