@@ -4,9 +4,7 @@ Java code implementing a simplified version of the Twitter concept using classes
 ## Prerequisites
 Before running the project, ensure that you have installed the following software:
 
-- Java SE Development Kit (JDK).
-- Apache Maven version 3.8.3 or later.
-- IntelliJ IDEA Community Edition version 2021.1 or later.
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 
 ## Installation
 1. Clone the repository to your local machine using Git:
